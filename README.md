@@ -1,2 +1,2 @@
 # steam-jwt-validator-script
-Yes.
+dependencies: pip install cryptography
